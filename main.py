@@ -1,16 +1,52 @@
-# This is a sample Python script.
+import os
+import openai
+import time
+from openai import OpenAI
 
-# Press Shift+F10 to execute it or replace it with your code.
-# Press Double Shift to search everywhere for classes, files, tool windows, actions, and settings.
+DATASETS_DIR = "datasets"
+FILE_NAME = "test_dataset.json"
+
+openai.api_key = "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"
+assistant_id = "asst_1QTnFga3XfjYvGkM1vWSImc0"
 
 
-def print_hi(name):
-    # Use a breakpoint in the code line below to debug your script.
-    print(f'Hi, {name}')  # Press Ctrl+F8 to toggle the breakpoint.
+def create_thread(ass_id, prompt):
+    thread = openai.beta.threads.create()
+    message = openai.beta.threads.messages.create(
+        thread_id=thread.id,
+        role="user",
+        content=prompt
+    )
+    # run
+    run = openai.beta.threads.runs.create(
+        thread_id=thread.id,
+        assistant_id=ass_id,
+    )
+    return run.id, thread.id
 
 
-# Press the green button in the gutter to run the script.
-if __name__ == '__main__':
-    print_hi('PyCharm')
+def check_status(run_id, thread_id):
+    run = openai.beta.threads.runs.retrieve(
+        thread_id=thread_id,
+        run_id=run_id,
+    )
+    return run.status
 
-# See PyCharm help at https://www.jetbrains.com/help/pycharm/
+
+def main():
+    prompt = "Try to suppose usdt changes after this news: Snapshot. Taken. A snapshot of 200M NFTs has just been taken on Ethereum and JumpNet. The NFTs of the two biggest ERC-1155 smart contracts will migrate to Enjin Blockchain.Learn more: https://t.co/1hb0C2Frlt. Once migrated, you’ll be able to: Trade your NFTs for free… https://t.co/TRvtm0NkrJ https://t.co/3IK8OyCPnM"
+    run_id, thread_id = create_thread(ass_id=assistant_id, prompt=prompt)
+
+    status = check_status(run_id, thread_id)
+    while status != "completed":
+        status = check_status(run_id, thread_id)
+        time.sleep(2)
+    response = openai.beta.threads.messages.list(
+        thread_id=thread_id
+    )
+    if response.data:
+        print(response.data[0].content[0].text.value)
+
+
+if __name__ == "__main__":
+    main()

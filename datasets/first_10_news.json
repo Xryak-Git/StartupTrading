@@ -1,0 +1,569 @@
+[
+    {
+        "id": 2453305,
+        "tweet_id": 1733113084154122734,
+        "headline": "🎁 Claim up to a 66% APR coupon reward!\n\n🕙 Starting Dec 8, 9 AM (UTC)\n\n👇 Join now: \nhttps://t.co/HDTpxOhqYz https://t.co/Lgu8KWZHs8",
+        "translated_headline": null,
+        "date": "2023-12-08T13:15:33.000Z",
+        "link": "https://twitter.com/bitgetglobal/status/1733113084154122734",
+        "timestamp": "2023-12-08T13:16:07.827Z",
+        "link_hash": "3b8e39bd21f61c5f06b387993e390dd5",
+        "metadata": null,
+        "is_trending_news": false,
+        "grouped_headline": null,
+        "tags": [
+            {
+                "id": 70655,
+                "name": "Bitget Token",
+                "tag_subgroup": {
+                    "id": 4,
+                    "name": "Coins"
+                },
+                "coin": {
+                    "ticker": "BGB",
+                    "name": "Bitget Token",
+                    "uid": "bitgettoken"
+                }
+            },
+            {
+                "id": 898,
+                "name": "Bitget",
+                "tag_subgroup": {
+                    "id": 10,
+                    "name": "Companies"
+                }
+            }
+        ],
+        "sources": [
+            {
+                "id": 2585,
+                "name": "@bitgetglobal",
+                "collections": [
+                    {
+                        "id": 43,
+                        "name": "Exchanges Twitter"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 2453303,
+        "tweet_id": 1733112749478089079,
+        "headline": "@ThenaFi_ @orbs_network Great news",
+        "translated_headline": null,
+        "date": "2023-12-08T13:14:13.000Z",
+        "link": "https://twitter.com/daomaker/status/1733112749478089079",
+        "timestamp": "2023-12-08T13:16:06.813Z",
+        "link_hash": "406c79fc6599612d2ae4bc545062f856",
+        "metadata": null,
+        "is_trending_news": false,
+        "grouped_headline": null,
+        "tags": [
+            {
+                "id": 842,
+                "name": "DAO Maker",
+                "tag_subgroup": {
+                    "id": 4,
+                    "name": "Coins"
+                },
+                "coin": {
+                    "ticker": "DAO",
+                    "name": "DAO Maker",
+                    "uid": "daomaker"
+                }
+            }
+        ],
+        "sources": [
+            {
+                "id": 2331,
+                "name": "@thedaomaker",
+                "collections": [
+                    {
+                        "id": 47,
+                        "name": "Crypto Projects Twitter"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 2453304,
+        "tweet_id": 1733112998292787298,
+        "headline": "Snapshot. Taken. ✨\n\nA snapshot of 200M NFTs has just been taken on Ethereum and JumpNet.\n\nThe NFTs of the two biggest ERC-1155 smart contracts will migrate to Enjin Blockchain.\n\nLearn more: https://t.co/1hb0C2Frlt\n\nOnce migrated, you’ll be able to:\n\n⛽️ Trade your NFTs for free… https://t.co/TRvtm0NkrJ https://t.co/3IK8OyCPnM",
+        "translated_headline": null,
+        "date": "2023-12-08T13:15:13.000Z",
+        "link": "https://twitter.com/enjin/status/1733112998292787298",
+        "timestamp": "2023-12-08T13:16:05.302Z",
+        "link_hash": "e477aea2f885281e52126030c36b7363",
+        "metadata": null,
+        "is_trending_news": false,
+        "grouped_headline": null,
+        "tags": [
+            {
+                "id": 214,
+                "name": "Blockchain",
+                "tag_subgroup": {
+                    "id": 1,
+                    "name": "General Topics"
+                }
+            },
+            {
+                "id": 245,
+                "name": "Enjin",
+                "tag_subgroup": {
+                    "id": 4,
+                    "name": "Coins"
+                },
+                "coin": {
+                    "ticker": "ENJ",
+                    "name": "Enjin Coin",
+                    "uid": "enjincoin"
+                }
+            },
+            {
+                "id": 247,
+                "name": "Ethereum",
+                "tag_subgroup": {
+                    "id": 4,
+                    "name": "Coins"
+                },
+                "coin": {
+                    "ticker": "ETH",
+                    "name": "Ethereum",
+                    "uid": "ethereum"
+                }
+            },
+            {
+                "id": 665,
+                "name": "NFT",
+                "tag_subgroup": {
+                    "id": 1,
+                    "name": "General Topics"
+                }
+            }
+        ],
+        "sources": [
+            {
+                "id": 896,
+                "name": "@enjin",
+                "collections": [
+                    {
+                        "id": 47,
+                        "name": "Crypto Projects Twitter"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 2453302,
+        "tweet_id": null,
+        "headline": "Andreessen Horowitz (a16z) Predicts Crypto Trends for 2024 in ‘Big Ideas’ Report",
+        "translated_headline": null,
+        "date": "2023-12-08T13:14:41.000Z",
+        "link": "https://mpost.io/andreessen-horowitz-a16z-predicts-crypto-trends-for-2024-in-big-ideas-report/",
+        "timestamp": "2023-12-08T13:15:14.943Z",
+        "link_hash": "0bb7aba77ff01d7c618eb82f78f20449",
+        "metadata": {
+            "image": "https://mpost.io/wp-content/uploads/изображение_2023-11-20_162052056.jpg",
+            "description": "A16z has outlined cryptocurrency trends expected for the upcoming year."
+        },
+        "is_trending_news": false,
+        "grouped_headline": null,
+        "tags": [
+            {
+                "id": 226,
+                "name": "Crypto",
+                "tag_subgroup": {
+                    "id": 1,
+                    "name": "General Topics"
+                }
+            },
+            {
+                "id": 552,
+                "name": "Andreessen Horowitz",
+                "tag_subgroup": {
+                    "id": 10,
+                    "name": "Companies"
+                }
+            }
+        ],
+        "sources": [
+            {
+                "id": 3443,
+                "name": "Metaverse Post RSS Feed",
+                "collections": [
+                    {
+                        "id": 45,
+                        "name": "Technology Publications"
+                    },
+                    {
+                        "id": 5,
+                        "name": "Crypto Native Publications"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 2453301,
+        "tweet_id": 1733112320480436659,
+        "headline": "⏳ Weekend 48-hours Offer\n\n🔥 Enjoy 0 fees when you buy crypto with credit/debit card\n\n↘️ Join here: \nhttps://t.co/XNzIrvbSSk https://t.co/anZeKFW47N",
+        "translated_headline": null,
+        "date": "2023-12-08T13:12:31.000Z",
+        "link": "https://twitter.com/bitgetglobal/status/1733112320480436659",
+        "timestamp": "2023-12-08T13:14:09.163Z",
+        "link_hash": "3fdc301e528d98d35e998cdf06ab7e2e",
+        "metadata": null,
+        "is_trending_news": false,
+        "grouped_headline": null,
+        "tags": [
+            {
+                "id": 226,
+                "name": "Crypto",
+                "tag_subgroup": {
+                    "id": 1,
+                    "name": "General Topics"
+                }
+            },
+            {
+                "id": 70655,
+                "name": "Bitget Token",
+                "tag_subgroup": {
+                    "id": 4,
+                    "name": "Coins"
+                },
+                "coin": {
+                    "ticker": "BGB",
+                    "name": "Bitget Token",
+                    "uid": "bitgettoken"
+                }
+            },
+            {
+                "id": 898,
+                "name": "Bitget",
+                "tag_subgroup": {
+                    "id": 10,
+                    "name": "Companies"
+                }
+            }
+        ],
+        "sources": [
+            {
+                "id": 2585,
+                "name": "@bitgetglobal",
+                "collections": [
+                    {
+                        "id": 43,
+                        "name": "Exchanges Twitter"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 2453300,
+        "tweet_id": null,
+        "headline": "READOUT: At White House Tribal Nations Summit, Deputy Secretary of the Treasury Wally Adeyemo Announces New Small Business Funding for Tribal Communities",
+        "translated_headline": null,
+        "date": "2023-12-08T13:14:05.847Z",
+        "link": "https://www.treasury.gov/news/press-releases/jy1970",
+        "timestamp": "2023-12-08T13:14:05.847Z",
+        "link_hash": "1cdbdfd2f2026ccb3586f3398ca629c7",
+        "metadata": {
+            "image": null,
+            "description": ""
+        },
+        "is_trending_news": false,
+        "grouped_headline": null,
+        "tags": [
+            {
+                "id": 721,
+                "name": "Macro",
+                "tag_subgroup": {
+                    "id": 1,
+                    "name": "General Topics"
+                }
+            },
+            {
+                "id": 187,
+                "name": "Announcement",
+                "tag_subgroup": {
+                    "id": 6,
+                    "name": "SigDevs"
+                }
+            },
+            {
+                "id": 260,
+                "name": "Funding",
+                "tag_subgroup": {
+                    "id": 6,
+                    "name": "SigDevs"
+                }
+            }
+        ],
+        "sources": [
+            {
+                "id": 1022,
+                "name": "United States Department of the Treasury Media Schedule",
+                "collections": [
+                    {
+                        "id": 42,
+                        "name": "US Regulators"
+                    },
+                    {
+                        "id": 21,
+                        "name": "Regulators"
+                    }
+                ]
+            },
+            {
+                "id": 1096,
+                "name": "United States Department of the Treasury Weekly Public Schedule",
+                "collections": [
+                    {
+                        "id": 42,
+                        "name": "US Regulators"
+                    },
+                    {
+                        "id": 21,
+                        "name": "Regulators"
+                    }
+                ]
+            },
+            {
+                "id": 1091,
+                "name": "United States Department of the Treasury Archived Press Releases",
+                "collections": [
+                    {
+                        "id": 42,
+                        "name": "US Regulators"
+                    },
+                    {
+                        "id": 21,
+                        "name": "Regulators"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 2453297,
+        "tweet_id": null,
+        "headline": "READOUT: At White House Tribal Nations Summit, Deputy Secretary of the Treasury Wally Adeyemo Announces New Small Business Funding for Tribal Communities",
+        "translated_headline": null,
+        "date": "2023-12-08T13:13:12.876Z",
+        "link": "https://home.treasury.gov/news/press-releases/jy1970",
+        "timestamp": "2023-12-08T13:13:12.876Z",
+        "link_hash": "c0897337cd7effd46d4120bed2e22ad4",
+        "metadata": {
+            "image": "https://home.treasury.gov/system/files/291/treasury-preview-1900x950.jpg",
+            "description": "$86 million in American Rescue Plan funding is part of the largest and most expansive one-time investment for Tribal governments for small business financing in the history of the nationWASHINGTON – Today, Deputy Secretary of the Treasury Wally Adeyemo participated in a panel entitled Supporting Tribal Economic Development at the 2023 White House Tribal Nations Summit at the Department of the Interior (DOI). The panel was moderated by U.S. Treasurer Chief Lynn Malerba and featured senior Biden-Harris Administration officials from the DOI, Small Business Administration (SBA), and White House Office of Management and Budget (OMB), as well as Lieutenant Governor Chris Anoatubby of the Chickasaw Nation.During the panel, Deputy Secretary Adeyemo announced the approval of more than  $86 million in funding allocated to 24 Tribal governments under the American Rescue Plan’s (ARP) State Small Business Credit Initiative (SSBCI) – part of the largest and most expansive one-time investment for Tribal governments for small business financing in the history of the nation. Including a first round of awards made in June, the Treasury Department has announced the approval of more than  funding allocated to 63 Tribal governments under SSBCI. Recipients of today’s awards include:A consortium of seven rural tribes in five states, approved for up to $6.5 million for a loan participation and collateral support program which will be administered by a Montana Native community development financial institution (CDFI) and will support loans to Tribal enterprises and individually owned Native small businesses; andThe Choctaw Nation of Oklahoma, approved for up to $44.9 million for three SSBCI programs to support small businesses: a loan participation program, a collateral support program, and an equity/venture capital program. Choctaw Nation anticipates SSBCI funds will expand economic opportunities and job growth, with many of the loans and investments being provided to Tribal member start-ups.Alongside these new awards, the Department is releasing the White House Access to Capital Initiative’s first report, commissioned by the Treasury Department, which includes case studies on initiatives meant to expand access to capital in Tribal communities.Deputy Secretary Adeyemo also outlined several additional announcements and efforts by the Department during the panel, including a new Tribal Housing Report released today, and a revised consultation policy that sets forth a new era of meaningful engagement with Tribal Nations and affirms that the consultative obligation applies to the Internal Revenue Service.In addition to today’s announcements, the Treasury Department has worked across the Biden-Harris Administration to deploy historic support to Indian Country, including through leading the implementation of key components of the American Rescue Plan and Inflation Reduction Act (IRA). The ARP funding includes $20 billion in State and Local Fiscal Recovery Funds allocated to 579 Tribal governments, which represents the largest-ever single infusion of federal funding into Indian Country. And the IRA established a new credit delivery mechanism called elective pay (often referred to as “direct pay”) that enables Tribal governments to take advantage of clean energy tax credits for the first time, allowing projects to be built more quickly and affordably, which will in turn create good-paying jobs and lower energy costs.Further, to expand economic opportunity in Tribal communities, the Treasury Department invested an historic $234 million in Native-owned and Native-majority shareholder depository institutions through the Emergency Capital Investment Program (ECIP) and made the two largest infusions of federal capital to Native-serving CDFIs in the history of the Department’s Community Development Financial Institutions Fund (CDFI Fund).###"
+        },
+        "is_trending_news": false,
+        "grouped_headline": null,
+        "tags": [
+            {
+                "id": 721,
+                "name": "Macro",
+                "tag_subgroup": {
+                    "id": 1,
+                    "name": "General Topics"
+                }
+            },
+            {
+                "id": 187,
+                "name": "Announcement",
+                "tag_subgroup": {
+                    "id": 6,
+                    "name": "SigDevs"
+                }
+            },
+            {
+                "id": 260,
+                "name": "Funding",
+                "tag_subgroup": {
+                    "id": 6,
+                    "name": "SigDevs"
+                }
+            }
+        ],
+        "sources": [
+            {
+                "id": 1169,
+                "name": "United States Department of the Treasury Readouts",
+                "collections": [
+                    {
+                        "id": 42,
+                        "name": "US Regulators"
+                    },
+                    {
+                        "id": 21,
+                        "name": "Regulators"
+                    }
+                ]
+            },
+            {
+                "id": 376,
+                "name": "United States Department of the Treasury Press Releases",
+                "collections": [
+                    {
+                        "id": 21,
+                        "name": "Regulators"
+                    },
+                    {
+                        "id": 42,
+                        "name": "US Regulators"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 2453295,
+        "tweet_id": 1733111861363495331,
+        "headline": "Yummy! The first $CAKE rewards from @PancakeSwap are now streaming to $sdCAKE holders!\n\nCome collect your cherries by depositing your $CAKE in the CAKE Liquid Locker! 🥞🍒 https://t.co/7P3jFT4k7v",
+        "translated_headline": null,
+        "date": "2023-12-08T13:10:42.000Z",
+        "link": "https://twitter.com/StakeDAOHQ/status/1733111861363495331",
+        "timestamp": "2023-12-08T13:12:14.560Z",
+        "link_hash": "37a840acedcb914de2e29154bd2a4550",
+        "metadata": null,
+        "is_trending_news": false,
+        "grouped_headline": null,
+        "tags": [
+            {
+                "id": 510,
+                "name": "PancakeSwap",
+                "tag_subgroup": {
+                    "id": 4,
+                    "name": "Coins"
+                },
+                "coin": {
+                    "ticker": "CAKE",
+                    "name": "PancakeSwap",
+                    "uid": "pancakeswap"
+                }
+            },
+            {
+                "id": 791,
+                "name": "Stake DAO",
+                "tag_subgroup": {
+                    "id": 4,
+                    "name": "Coins"
+                },
+                "coin": {
+                    "ticker": "SDT",
+                    "name": "Stake DAO",
+                    "uid": "stakedao"
+                }
+            }
+        ],
+        "sources": [
+            {
+                "id": 2218,
+                "name": "@StakedaoHQ",
+                "collections": [
+                    {
+                        "id": 47,
+                        "name": "Crypto Projects Twitter"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 2453294,
+        "tweet_id": 1733111863687180585,
+        "headline": "Link : https://t.co/F252l57NKk",
+        "translated_headline": null,
+        "date": "2023-12-08T13:10:42.000Z",
+        "link": "https://twitter.com/StakeDAOHQ/status/1733111863687180585",
+        "timestamp": "2023-12-08T13:12:14.560Z",
+        "link_hash": "7e8e9685402eea104bc5c3b83824e1d1",
+        "metadata": null,
+        "is_trending_news": false,
+        "grouped_headline": null,
+        "tags": [
+            {
+                "id": 219,
+                "name": "ChainLink",
+                "tag_subgroup": {
+                    "id": 4,
+                    "name": "Coins"
+                },
+                "coin": {
+                    "ticker": "LINK",
+                    "name": "Chainlink",
+                    "uid": "chainlink"
+                }
+            },
+            {
+                "id": 791,
+                "name": "Stake DAO",
+                "tag_subgroup": {
+                    "id": 4,
+                    "name": "Coins"
+                },
+                "coin": {
+                    "ticker": "SDT",
+                    "name": "Stake DAO",
+                    "uid": "stakedao"
+                }
+            }
+        ],
+        "sources": [
+            {
+                "id": 2218,
+                "name": "@StakedaoHQ",
+                "collections": [
+                    {
+                        "id": 47,
+                        "name": "Crypto Projects Twitter"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 2453292,
+        "tweet_id": 1733111964337934762,
+        "headline": "@Queenxrypt A great thread, thank you!",
+        "translated_headline": null,
+        "date": "2023-12-08T13:11:06.000Z",
+        "link": "https://twitter.com/AIOZNetwork/status/1733111964337934762",
+        "timestamp": "2023-12-08T13:12:05.153Z",
+        "link_hash": "4324f9011ea7507965ce3f9d9611d90a",
+        "metadata": null,
+        "is_trending_news": false,
+        "grouped_headline": null,
+        "tags": [
+            {
+                "id": 991,
+                "name": "AIOZ Network",
+                "tag_subgroup": {
+                    "id": 4,
+                    "name": "Coins"
+                },
+                "coin": {
+                    "ticker": "AIOZ",
+                    "name": "AIOZ Network",
+                    "uid": "aioznetwork"
+                }
+            }
+        ],
+        "sources": [
+            {
+                "id": 2841,
+                "name": "@aioznetwork",
+                "collections": [
+                    {
+                        "id": 47,
+                        "name": "Crypto Projects Twitter"
+                    }
+                ]
+            }
+        ]
+    }
+]
